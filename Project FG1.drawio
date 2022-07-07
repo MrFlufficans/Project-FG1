@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T07:38:03.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="UfX889YalaJcVASIZoln" version="20.0.4" type="github" pages="2"><diagram id="-oCOMcQ30E3FEB3OWvga" name="Main Info">7VhRb5swEP410Z4yYZMm9DGhTTap3SJF6tqnyQEHvBqbGdMk+/U7gyGhLVu6lqid+gL4O/vOvu/ubNNz/WQzUySNL2VIeQ874abnnvUwRq6H4GWQbYl4jlsCkWKh7bQDFuwXtaBj0ZyFNGt01FJyzdImGEghaKAbGFFKrpvdVpI3raYkog+ARUD4Q/QbC3VsUTQ83Qk+URbF1rSHR6UgIVVnu5IsJqFc70Huec/1lZS6/Eo2PuXGeZVfynHTFmk9MUWFPmTA4jq+Pr/x5ps0GSyy2fcrZ+z10aBUc0d4blfcw0MOCie5GZzprfXE8GduZjpZSaH7WcHTGDpglALXk50cviL7LtRw9iw1KNOGSRHC01XmOacqk6JSD+s1Fl7Ups9ZsmQiAt1zom5lrrq09lncAYNSbet1+oqsdGG/O6tXNGYBh8z6kw0ATRRUIG5YxErmIqQmuhwQr2Om6SIlgZGuoRgAFuuEQwvZednsxqZNOIsENDhdGeV3VGkGWTe2sJZpbdLI6KY16lGdS1CEqEyoLlxpBwxs9tnyg6psXO+SGWpSicV7eYyGFiS2gES16l2OwYdNs6eknNuacllKxCGsngxbWJ0r+cNUQexMZ2iPxVLxS/M4qtpWFzoGkXvEIecx5rzOiMPPJg6PLHFOIVjbaRvRyHFKyZIEt1HBST+QXKpSzATTjPCyC3hR90MaSEU0k6LPmbAGDJOqbD4SHpeEmWnOSEIBIomhRiyztJnyzWB5UwucUqJz1ahq3YT+aSfVyTuwOA06C/HhUUL8X+ktzpgsMOUNToWc6e2bIfq1MY2fvwt1yfSFVFCipmc0M9vIGyHZe3Uknz6d5AOq8704QCctp5ELuO7AeV1yWIlffzk+KDdHlC+wpvHHakJLdUjMtdr6y/71QtqP4bUFS1LQbvzEi6uHM4fbqNa0dOL+iqpdfVP3/pCZiKVm1NelPQo2/dxVEqGTY57qX9+x3nXeb9LvN+k2G//BTfr+7tZpzkFz92eskO39X3TPfwM=</diagram><diagram id="vRhMuOtopT-bNtXbqueS" name="Mechanic 1">dZHBDoIwDIafZndYE8Uzol48cfC8sMqWDErGDOjTC9kQF/S07vv/rmvLIG/GsxWdupJEw3giRwZHxnkKWTodM3l6kiXgQW21DKYVlPqFASaBPrTEPjI6IuN0F8OK2hYrFzFhLQ2x7U4mrtqJGjegrITZ0puWTgWa7g6rcEFdq1A643svNGIxh056JSQNXwgKBrklcj5qxhzNPLxlLj7v9Ef9fMxi634kTMH69nSJNgTFGw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T05:11:17.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="sPoRZfNcCgLvjjXHqDTD" version="20.0.4" type="github" pages="2">
+  <diagram id="-oCOMcQ30E3FEB3OWvga" name="Main Info">
+    <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-14" value="&lt;ul style=&quot;font-size: 21px;&quot;&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;1st and 3rd Person&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Climbing/Parkour&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Inventory and Crafting&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Vehicles&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-13" value="&lt;span style=&quot;font-size: 56px;&quot;&gt;Project FG1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-12" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; background-color: initial; text-decoration-line: underline;&quot;&gt;Main Game&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 27px; font-weight: 700; background-color: initial; text-decoration-line: underline;&quot;&gt;Features&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-16" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Graphic Fidelity&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-23" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Design&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="840" y="480" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-29" value="&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Low Poly, Poly Count N/A.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Simple Colour Palette, &lt;br&gt;Max Colour&#39;s per Object N/A.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-30" value="Mostly Modern with Hints of Future technology/architecture from Precursors&lt;br&gt;&lt;br&gt;I&#39;m not too sure where to go from here, I will worry about the Design more when I build the Assets and After I have designed the Story/Lore" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="840" y="520" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-1" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Lore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="WTTrBmFcZVT1cNoipJBk-2" target="SXhXEY8Pxpm4SsG_V0A8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-2" value="You find yourself on a War torn world between Multiple Robotic/Cyborg Species.&lt;br&gt;&lt;br&gt;Classic Protagonist Amnesia.&lt;br&gt;&lt;br&gt;Decoupled from Regular Conventions.&lt;br&gt;&lt;br&gt;The Player is given time Local to the planet but all encounters refer to a different time convention, Perhaps have lore bits that talk about Time like the Player is used to &quot;Years, Days, Months&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="280" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vRhMuOtopT-bNtXbqueS" name="Mechanic 1">
+    <mxGraphModel dx="1381" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
