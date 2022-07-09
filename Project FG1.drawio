@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T05:51:10.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="5tbxEdbBTjr_50wLI9UV" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-09T06:34:02.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="afTDAAkiIqzZuohUM9xj" version="20.0.4" type="github" pages="2">
   <diagram id="-oCOMcQ30E3FEB3OWvga" name="Main Info">
     <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="SXhXEY8Pxpm4SsG_V0A8-23" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Design&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
           <mxGeometry x="760" y="480" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-29" value="&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Low Poly, Poly Count N/A.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Simple Colour Palette, &lt;br&gt;Max Colour&#39;s per Object N/A.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-29" value="&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Low Poly, Poly Count N/A.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Simple Colour Palette, &lt;br&gt;Max Colour&#39;s per Object N/A.&lt;br&gt;&lt;br&gt;Gerstner Waves for Waves would be Poggers&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="400" y="120" width="360" height="160" as="geometry" />
         </mxCell>
         <mxCell id="SXhXEY8Pxpm4SsG_V0A8-30" value="Mostly Modern with Hints of Future technology/architecture from Precursors&lt;br&gt;&lt;br&gt;I&#39;m not too sure where to go from here, I will worry about the Design more when I build the Assets and After I have designed the Story/Lore" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
@@ -37,8 +37,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vRhMuOtopT-bNtXbqueS" name="Mechanic 1">
-    <mxGraphModel dx="1381" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="vRhMuOtopT-bNtXbqueS" name="Gameplay Loop 1">
+    <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
