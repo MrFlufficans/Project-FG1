@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T06:34:02.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="afTDAAkiIqzZuohUM9xj" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-10T05:45:56.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="H3K6ul0zfgepIfR70Wle" version="20.0.4" type="github" pages="2">
   <diagram id="-oCOMcQ30E3FEB3OWvga" name="Main Info">
     <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="vRhMuOtopT-bNtXbqueS" name="Gameplay Loop 1">
+  <diagram id="vRhMuOtopT-bNtXbqueS" name="Gameplay">
     <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
