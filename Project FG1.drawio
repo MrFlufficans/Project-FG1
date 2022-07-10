@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net" modified="2022-07-10T05:45:56.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.65" etag="H3K6ul0zfgepIfR70Wle" version="20.0.4" type="github" pages="2">
+  <diagram id="-oCOMcQ30E3FEB3OWvga" name="Main Info">
+    <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-14" value="&lt;ul style=&quot;font-size: 21px;&quot;&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;1st and 3rd Person&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Climbing/Parkour&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Inventory and Crafting&lt;/li&gt;&lt;li style=&quot;font-size: 21px;&quot;&gt;Vehicles&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-13" value="&lt;span style=&quot;font-size: 56px;&quot;&gt;Project FG1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" width="1080" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-12" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; background-color: initial; text-decoration-line: underline;&quot;&gt;Main Game&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 27px; font-weight: 700; background-color: initial; text-decoration-line: underline;&quot;&gt;Features&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-16" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Graphic Fidelity&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-23" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Design&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" parent="1" vertex="1">
+          <mxGeometry x="760" y="480" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-29" value="&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Low Poly, Poly Count N/A.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Simple Colour Palette, &lt;br&gt;Max Colour&#39;s per Object N/A.&lt;br&gt;&lt;br&gt;Gerstner Waves for Waves would be Poggers&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="400" y="120" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SXhXEY8Pxpm4SsG_V0A8-30" value="Mostly Modern with Hints of Future technology/architecture from Precursors&lt;br&gt;&lt;br&gt;I&#39;m not too sure where to go from here, I will worry about the Design more when I build the Assets and After I have designed the Story/Lore" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" parent="1" vertex="1">
+          <mxGeometry x="760" y="520" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-1" value="&lt;span style=&quot;font-size: 27px; font-weight: 700; text-decoration-line: underline;&quot;&gt;Lore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="WTTrBmFcZVT1cNoipJBk-2" target="SXhXEY8Pxpm4SsG_V0A8-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WTTrBmFcZVT1cNoipJBk-2" value="You find yourself on a War torn world between Multiple Robotic/Cyborg Species.&lt;br&gt;&lt;br&gt;Classic Protagonist Amnesia.&lt;br&gt;&lt;br&gt;Decoupled from Regular Conventions.&lt;br&gt;&lt;br&gt;The Player is given time Local to the planet but all encounters refer to a different time convention, Perhaps have lore bits that talk about Time like the Player is used to &quot;Years, Days, Months&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="360" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vRhMuOtopT-bNtXbqueS" name="Gameplay">
+    <mxGraphModel dx="1381" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
